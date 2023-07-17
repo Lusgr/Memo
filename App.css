@@ -1,0 +1,14 @@
+.allPage{
+  display: flex;
+  justify-content: center;
+}
+button{
+  margin:20px;
+  text-align: center; 
+  color: #ffffff;
+  background-color: #428bca;
+  border-color: #357ebd;
+  height: 30px;
+  width: 100px;
+
+}
